@@ -1,6 +1,12 @@
 # Sociloc
 ![Banner](https://raw.githubusercontent.com/Sociloc/.github/main/profile/image.png)
-Sociloc is an AI research deployment company, focused on providing open-source light-weight GPT based models, more unique use cases of the transformer architecture (image generation, time-series prediction). As well as carrying out some research regarding how graph neural networks can be applied to the mathematical structures and other use cases. However, our key concept is as follows: develop artificial intelligence without exploiting or taking advantage of society.
+Sociloc is an AI research and deployment company committed to advancing the frontiers of artificial intelligence in a way that is both innovative and socially responsible. We specialize in the development and open-source release of lightweight GPT-based models, with a strong focus on accessibility, efficiency, and transparency.
+
+Our research explores a broad spectrum of transformative AI use cases — from creative applications like image generation to more data-centric challenges such as time-series forecasting. We're particularly intrigued by the versatility of the transformer architecture and how it can be adapted beyond language into domains that remain largely unexplored.
+
+In parallel, we're delving into how graph neural networks (GNNs) can be harnessed to model complex mathematical structures and systems — from theoretical constructs to practical applications in science and technology.
+
+But at the heart of everything we do lies a core principle: to develop artificial intelligence that uplifts rather than exploits. We believe technology should serve humanity — not commodify it. That means no data scraping, no black-box deception, and no ethical shortcuts. Just thoughtful, impactful AI built in the open, by and for the people.
 
 ## Who
 Find the Co-Founders below:
