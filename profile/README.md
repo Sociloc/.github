@@ -1,7 +1,7 @@
 # Sociloc
 
 ## Introduction
-Sociloc is an AI research company focused at addressing financial interactions and medical insights. However, we are currently developing our large language model and image generation program. We are also implementing aritificial intelligence for scientific discoveries. While leveraging ground-breaking technologies and algorithms our programs and research are made possible. While this is all true, we have one main mission statement: making artificial intelligence more accessible without explotiting workers. 
+Sociloc is an AI research deployment company, focused on providing open-source light-weight GPT based models, more unique use cases of the transformer architecture (image generation, time-series prediction). As well as carrying out some research regarding how graph neural networks can be applied to the mathematical structures and other use cases. However, our key concept is as follows: develop artificial intelligence without exploiting or taking advantage of society.
 
 ## Who
 Find the Co-Founders below:
