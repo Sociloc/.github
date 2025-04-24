@@ -1,6 +1,5 @@
 # Sociloc
-
-## Introduction
+![Banner](image.png)
 Sociloc is an AI research deployment company, focused on providing open-source light-weight GPT based models, more unique use cases of the transformer architecture (image generation, time-series prediction). As well as carrying out some research regarding how graph neural networks can be applied to the mathematical structures and other use cases. However, our key concept is as follows: develop artificial intelligence without exploiting or taking advantage of society.
 
 ## Who
