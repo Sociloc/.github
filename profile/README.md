@@ -11,6 +11,5 @@ But at the heart of everything we do lies a core principle: to develop artificia
 ## Who
 Find the Co-Founders below:
 - Guillem Romero Naranjo (@GRomeroNaranjo), Lead AI and Deep Learning Engineer, Backend dev, Co-Founder of Sociloc
-- Jaume Romero Naranjo (@UrName51), Deep Learning Engineer, Frontend dev, Backend dev, Co-Founder of Sociloc
 - Alex Romero (@alexromr), Lead Marketing, TrendX testing team, prototyping team, Co-Founder of Sociloc
 - Jorge Romero (No Github), TrendX testing team, prototyping team, client scouter, Co-Founder of Sociloc
